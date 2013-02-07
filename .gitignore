@@ -1,0 +1,17 @@
+*.bak
+*.db
+*.iml
+*.log
+*.py[oc]
+*sw[po]
+*~
+.DS_Store
+._*
+.coverage
+.noseids
+.svn*
+.vagrant
+bin/
+build/
+dist/
+env/
